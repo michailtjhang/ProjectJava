@@ -1,7 +1,7 @@
-## ProjectJava
+# ProjectJava
 Pembelajaran Bahasa Java
 
-# Materi Pembelajaran
+## Materi Pembelajaran
 - Struktur Java
 - Text
 - Tipe Variabel
