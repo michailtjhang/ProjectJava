@@ -1,6 +1,4 @@
-package pkg2_text;
-
-public class Main {
+public class Text {
 
     public static void main(String[] args) {
         System.out.println("Halo Apa Kabara ?");
