@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Soal03UTS {
+public class HypotenuseTriangle {
 
     public static void main(String[] args) {
         //menggunakan libary scanner untuk memasukkan input
