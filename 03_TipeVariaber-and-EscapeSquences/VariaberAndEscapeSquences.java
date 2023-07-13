@@ -1,6 +1,4 @@
-package pkg3_tipevariaber.and.escapesquences;
-
-public class AndEscapeSquences {
+public class VariaberAndEscapeSquences {
     public static void main(String[] args) {
         //Tipe Data/Variabel
         
